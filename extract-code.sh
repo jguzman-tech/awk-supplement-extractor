@@ -14,7 +14,7 @@
 # The script takes no arguments, simply navigate the menu, when you pick a file
 # and confirm with 'y' it will write that file to your current working
 # directory. The script assumes you have downloaded awkcode.txt and that it
-# exists in the same directory
+# exists in the same directory as the script itself.
 
 function extract() {
     local file
